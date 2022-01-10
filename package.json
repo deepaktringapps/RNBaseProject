@@ -2,7 +2,7 @@
   "name": "react-native-new-template",
   "version": "1",
   "description": "React Native Template",
-  "repository": "git@github.com:Esemesek/react-native-new-template.git",
+  "repository": "https://github.com/deepaktringapps/RNBaseProject.git",
   "author": "Deepak",
   "license": "Deepak"
 }
